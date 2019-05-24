@@ -1,0 +1,23 @@
+commit 2c7f40557ef3f1ef5d1dbebfebff791d17880836
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Mon Mar 11 16:06:50 2019 +0100
+
+    Add firmware
+
+commit dabb4574d0056b9f4381d90aa7b10e5d3f57dad9
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Mon Mar 11 15:55:57 2019 +0100
+
+    Integrate temperature sensor; minor fixes
+
+commit 93ed8e4bbf74d362a384c4c549868d2b9902723d
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 20:17:56 2019 +0100
+
+    Add mock implementation
+
+commit e5dd4d72e1d2504fa7e24de9be52e1d7a6222f17
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 18:09:06 2019 +0100
+
+    Initial commit

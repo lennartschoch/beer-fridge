@@ -1,0 +1,65 @@
+commit 2a45882e014183fae1649d314c8560e059090b9e
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Fri Feb 22 19:14:39 2019 +0100
+
+    Remove logging to file
+
+commit e3b53ec141a37a632d60593d16af8aced702a4d6
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Fri Feb 22 19:12:45 2019 +0100
+
+    Modify log format
+
+commit 2fd80437cef2df69c60cd9f1a0a2f28e00b36633
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Fri Feb 22 19:05:44 2019 +0100
+
+    Modify logger
+
+commit ea8c6b23ad8704d91f54f09cd64ce83338504b66
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Fri Feb 22 18:59:29 2019 +0100
+
+    Enhance logging & validation
+
+commit 433284399e09be6be08d0e7b5a7f37c9f3c7f55a
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Fri Feb 22 18:05:13 2019 +0100
+
+    Add logging and some error handling
+
+commit daa986486dd408caffad4a6940a7e6cd83b604c6
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 17:53:08 2019 +0100
+
+    Adjust for systemd service
+
+commit c2c1171d2b5f40f03dad8ab942e7fa5503648a37
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 17:25:56 2019 +0100
+
+    Add secure tokens; add fridge connection close handler; cleanup
+
+commit ad8cd47d11989cc5bcda5375cb8a00c1aa011419
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 17:01:12 2019 +0100
+
+    Use strict mode
+
+commit 117794facf911a36346bf25ba11c7f4ed84a1644
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 16:58:47 2019 +0100
+
+    Add https support
+
+commit df7286c20b18668e84a0cf273e232d434adb591c
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 15:03:12 2019 +0100
+
+    Upload base project
+
+commit 7ef65688677a47cdea72843ef50a2f4200df058c
+Author: Lennart Schoch <lennart.schoch@code.berlin>
+Date:   Wed Feb 20 15:01:16 2019 +0100
+
+    Initial commit
