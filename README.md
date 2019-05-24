@@ -4,4 +4,4 @@ This is the source code of my SE_01 project at CODE University of Applied Scienc
 
 To understand what I've built, see the [technical paper](https://github.com/lennartschoch/beer-fridge/wiki/Technical-paper).
 
-If you don't like reading, check out the [video](https://streamable.com/1ekqo)
+If you don't like reading, check out the [video](https://streamable.com/1ekqo).
