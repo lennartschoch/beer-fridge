@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+To install the app either on your device or an emulator, install the Flutter CLI and your devices SDK (Xcode/Android SDK). Then, inside the project directory, run `flutter run`.
