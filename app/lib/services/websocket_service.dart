@@ -15,7 +15,7 @@ class WebsocketService {
   RxCommand<bool, bool> stateStream;
 
   WebsocketService() {
-    temperatureStream = RxCommand.createSync((temp) => 20.0);
+    temperatureStream = RxCommand.createSync((temp) => temp);
     stateStream = RxCommand.createSync((state) => state);
 
     // The default state is turned off / false
@@ -28,8 +28,6 @@ class WebsocketService {
     Map message = {'state': state ? 'on' : 'off'};
     print(jsonEncode(message));
     _socketConn.sink.add(jsonEncode(message));
-    Future.delayed(
-        Duration(milliseconds: 500), () => stateStream.execute(state));
   }
 
   _initWebsocketServer() {
